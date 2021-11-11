@@ -1,6 +1,10 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# How Many Blimps Are There?
+
+[Check it out here](https://howmanyblimpsarethere.com)
+
+You ever wonder how many blimps there are in the world? Now you have a somewhat good idea of how many there are. This project is a very simple website that was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Updates to come.
 
 ## Available Scripts
 
